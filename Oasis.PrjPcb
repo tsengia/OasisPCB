@@ -165,7 +165,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=Project Outputs for CDH_COMPONENTS\CDH_COMPONENTS.IntLib
+DocumentPath=IntegratedLibraries\POWER_COMPONENTS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -182,7 +182,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=Project Outputs for POWER_COMPONENTS\POWER_COMPONENTS.IntLib
+DocumentPath=IntegratedLibraries\TEENSY_COMPONENTS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -199,7 +199,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=Project Outputs for TEENSY_COMPONENTS\TEENSY_COMPONENTS.IntLib
+DocumentPath=IntegratedLibraries\CDH_COMPONENTS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
