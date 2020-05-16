@@ -5,7 +5,7 @@ ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
 ChannelRoomLevelSeperator=_
-OpenOutputs=1
+OpenOutputs=0
 ArchiveProject=0
 TimestampOutput=0
 SeparateFolders=0
@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=IntegratedLibraries
 LogFolderPath=
 ManagedProjectGUID=0075C763-6F1D-4786-A227-203F79159955
 VaultGUID=ba7d71ee-b4be-40d8-bc0f-9fe292e83aaf
@@ -72,6 +72,9 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUQVXNFO
+
+[Generic_EDE]
+OutputDir=IntegratedLibraries
 
 [Generic_IntLibOptions]
 OldFormat=False
