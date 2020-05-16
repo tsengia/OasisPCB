@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=..\CurrentOasis
+OutputPath=IntegratedLibraries
 LogFolderPath=
 ManagedProjectGUID=0075C763-6F1D-4786-A227-203F79159955
 VaultGUID=ba7d71ee-b4be-40d8-bc0f-9fe292e83aaf
@@ -74,7 +74,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PKYLCRJH
 
 [Generic_EDE]
-OutputDir=..\CurrentOasis
+OutputDir=IntegratedLibraries
 
 [Generic_IntLibOptions]
 OldFormat=False
