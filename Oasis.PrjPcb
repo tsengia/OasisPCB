@@ -46,6 +46,23 @@ ReleaseFolderPath=[OutputPath]
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
+DocumentPath=CDH_PCB_reva01.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OUYDSMRR
+
+[Document2]
 DocumentPath=300_CDH_RS422.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
@@ -62,7 +79,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGRVDJVN
 
-[Document2]
+[Document3]
 DocumentPath=200_CDH_USB_2_Hub.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
@@ -79,8 +96,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHRVFKJU
 
-[Document3]
-DocumentPath=CDH_PCB.PcbDoc
+[Document4]
+DocumentPath=..\ecs_legacy\Altium\library\Layer_Stackups\Advanced_Circuits_4_Layer.stackup
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=CDH_PCB_3DBodies.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -96,7 +130,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OUYDSMRR
 
-[Document4]
+[Document6]
 DocumentPath=000_BBB_Pinouts.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=0
@@ -113,7 +147,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFWRDTYK
 
-[Document5]
+[Document7]
 DocumentPath=100_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -130,7 +164,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORJETRAA
 
-[Document6]
+[Document8]
 DocumentPath=400_TEENSY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
@@ -147,7 +181,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NBKUOKLL
 
-[Document7]
+[Document9]
 DocumentPath=BoardExport.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -164,7 +198,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document10]
 DocumentPath=IntegratedLibraries\POWER_COMPONENTS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -181,7 +215,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document11]
 DocumentPath=IntegratedLibraries\TEENSY_COMPONENTS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -198,7 +232,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document12]
 DocumentPath=IntegratedLibraries\CDH_COMPONENTS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -215,7 +249,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document13]
 DocumentPath=500_HEATERS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=500
@@ -232,6 +266,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNTKOTAQ
 
+[Document14]
+DocumentPath=..\ecs_legacy\Altium\library\ids_schlib\idsconn.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=..\ecs_legacy\Altium\library\ids_pcblib\idsconn.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XBYEDUOL
+
 [ProjectVariant1]
 UniqueID=A37E071D-1A1E-4AE6-943C-44247CBEE690
 Description=Default
@@ -239,6 +307,10 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Oasis\Design Rule Check - CDH_PCB_reva01.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -392,7 +464,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Officejet 7200 series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
