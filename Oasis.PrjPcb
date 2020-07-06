@@ -97,23 +97,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AHRVFKJU
 
 [Document4]
-DocumentPath=..\ecs_legacy\Altium\library\Layer_Stackups\Advanced_Circuits_4_Layer.stackup
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=CDH_PCB_3DBodies.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -130,7 +113,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OUYDSMRR
 
-[Document6]
+[Document5]
 DocumentPath=000_BBB_Pinouts.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=0
@@ -147,7 +130,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFWRDTYK
 
-[Document7]
+[Document6]
 DocumentPath=100_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -164,7 +147,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORJETRAA
 
-[Document8]
+[Document7]
 DocumentPath=400_TEENSY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
@@ -181,7 +164,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NBKUOKLL
 
-[Document9]
+[Document8]
 DocumentPath=BoardExport.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -198,7 +181,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=IntegratedLibraries\POWER_COMPONENTS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -215,7 +198,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=IntegratedLibraries\TEENSY_COMPONENTS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -232,7 +215,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=IntegratedLibraries\CDH_COMPONENTS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -249,7 +232,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=500_HEATERS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=500
@@ -266,8 +249,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNTKOTAQ
 
-[Document14]
-DocumentPath=..\ecs_legacy\Altium\library\ids_schlib\idsconn.SchLib
+[Document13]
+DocumentPath=IntegratedLibraries\OASIS_COMPONENTS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -282,23 +265,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document15]
-DocumentPath=..\ecs_legacy\Altium\library\ids_pcblib\idsconn.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XBYEDUOL
 
 [ProjectVariant1]
 UniqueID=A37E071D-1A1E-4AE6-943C-44247CBEE690
@@ -464,7 +430,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP Officejet 7200 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -986,6 +952,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1669,17 +1647,11 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=POWER_COMPONENTS.IntLib
-ComponentDesignItemID0=CAA572C0G2J204J640LH
-ComponentSymbolReference0=CAA572C0G2J204J640LH
+ComponentLibraryIdentifier0=OASIS_COMPONENTS.IntLib
+ComponentDesignItemID0=LMK107BJ225KK-T
+ComponentSymbolReference0=LMK107BJ225KK-T
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=POWER_COMPONENTS.IntLib
-ComponentDesignItemID1=HeaterConnector
-ComponentSymbolReference1=HeaterConnector
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1710,11 +1682,8 @@ ParameterUpdate6=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=CAA572C0G2J204J640LH
+ModelName0=*RESC1608X55N
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=MOLEX 6x1 latch header
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
