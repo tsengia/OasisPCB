@@ -199,7 +199,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NNTKOTAQ
 
 [Document10]
-DocumentPath=IntegratedLibraries\OASIS_COMPONENTS.IntLib
+DocumentPath=OASIS_COMPONENTS_FOOTPRINTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -213,7 +213,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XCWABKNW
+
+[Document11]
+DocumentPath=OASIS_COMPONENTS_SYMBOLS.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KBBBYLLN
 
 [ProjectVariant1]
 UniqueID=A37E071D-1A1E-4AE6-943C-44247CBEE690
