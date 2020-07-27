@@ -97,23 +97,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AHRVFKJU
 
 [Document4]
-DocumentPath=CDH_PCB_3DBodies.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OUYDSMRR
-
-[Document5]
 DocumentPath=000_BBB_Pinouts.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=0
@@ -130,7 +113,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFWRDTYK
 
-[Document6]
+[Document5]
 DocumentPath=100_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -147,7 +130,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORJETRAA
 
-[Document7]
+[Document6]
 DocumentPath=400_TEENSY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
@@ -164,7 +147,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NBKUOKLL
 
-[Document8]
+[Document7]
 DocumentPath=BoardExport.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -181,7 +164,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=500_HEATERS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=500
@@ -198,7 +181,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNTKOTAQ
 
-[Document10]
+[Document9]
 DocumentPath=OASIS_COMPONENTS_FOOTPRINTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -215,7 +198,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCWABKNW
 
-[Document11]
+[Document10]
 DocumentPath=OASIS_COMPONENTS_SYMBOLS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -232,7 +215,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBBBYLLN
 
-[Document12]
+[Document11]
 DocumentPath=CDH_PCB_reva01.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,6 +239,10 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Oasis\Design Rule Check - CDH_PCB_reva01.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1627,8 +1614,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=OASIS_COMPONENTS_SYMBOLS.SchLib
-ComponentDesignItemID0=HDR_46_F_2_0.1_0.1
-ComponentSymbolReference0=HDR_46_F_2_0.1_0.1
+ComponentDesignItemID0=V24C28C50BL
+ComponentSymbolReference0=V24C28C50BL
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1644,72 +1631,23 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Category
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Color
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=ComponentLink1Description
+ParameterName4=Supplier 1
 ParameterUpdate4=1
-ParameterName5=ComponentLink1URL
+ParameterName5=Supplier Part Number 1
 ParameterUpdate5=1
-ParameterName6=Connector Type
-ParameterUpdate6=1
-ParameterName7=Contact Finish
-ParameterUpdate7=1
-ParameterName8=Contact Finish Thickness
-ParameterUpdate8=1
-ParameterName9=Contact Type
-ParameterUpdate9=1
-ParameterName10=Description
-ParameterUpdate10=1
-ParameterName11=Fastening Type
-ParameterUpdate11=1
-ParameterName12=Features
-ParameterUpdate12=1
-ParameterName13=Library Reference
-ParameterUpdate13=1
-ParameterName14=Manufacturer
-ParameterUpdate14=1
-ParameterName15=Manufacturer Part Number
-ParameterUpdate15=1
-ParameterName16=Mounting Type
-ParameterUpdate16=1
-ParameterName17=Number of Positions
-ParameterUpdate17=1
-ParameterName18=Number of Positions Loaded
-ParameterUpdate18=1
-ParameterName19=Number of Rows
-ParameterUpdate19=1
-ParameterName20=Packaging
-ParameterUpdate20=1
-ParameterName21=Pitch
-ParameterUpdate21=1
-ParameterName22=Pricing 1
-ParameterUpdate22=1
-ParameterName23=RoHS
-ParameterUpdate23=1
-ParameterName24=Row Spacing
-ParameterUpdate24=1
-ParameterName25=Stock 1
-ParameterUpdate25=1
-ParameterName26=Supplier 1
-ParameterUpdate26=1
-ParameterName27=Supplier Part Number 1
-ParameterUpdate27=1
-ParameterName28=Termination
-ParameterUpdate28=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=MAJOR-TSHC-123-D-03_V
+ModelName0=V24C48C50BL_tht
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=SMTC-SSW-123-06-X-D
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
