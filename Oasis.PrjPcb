@@ -215,23 +215,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBBBYLLN
 
-[Document11]
-DocumentPath=CDH_PCB_reva01.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MQWGEEJX
-
 [ProjectVariant1]
 UniqueID=A37E071D-1A1E-4AE6-943C-44247CBEE690
 Description=Default
