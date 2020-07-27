@@ -46,7 +46,7 @@ ReleaseFolderPath=[OutputPath]
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
-DocumentPath=CDH_PCB_reva01.PcbDoc
+DocumentPath=CDH_PCB_reva02.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -242,6 +242,10 @@ ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Oasis\Design Rule Check - CDH_PCB_reva01.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Oasis\Design Rule Check - CDH_PCB_reva02.html
 DItemRevisionGUID=
 
 [Configuration1]
