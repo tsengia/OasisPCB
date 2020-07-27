@@ -232,6 +232,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBBBYLLN
 
+[Document12]
+DocumentPath=CDH_PCB_reva01.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MQWGEEJX
+
+[Document13]
+DocumentPath=Oasis.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CZLXAWHB
+
 [ProjectVariant1]
 UniqueID=A37E071D-1A1E-4AE6-943C-44247CBEE690
 Description=Default
@@ -1610,8 +1644,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=OASIS_COMPONENTS_SYMBOLS.SchLib
-ComponentDesignItemID0=SQJ208EP-T1_GE3
-ComponentSymbolReference0=SQJ208EP-T1_GE3
+ComponentDesignItemID0=SML-211DTT86
+ComponentSymbolReference0=SML-211DTT86
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1631,18 +1665,26 @@ ParameterName0=Comment
 ParameterUpdate0=1
 ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Datasheet Link
 ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=Supplier 1
+ParameterName4=Height
 ParameterUpdate4=1
-ParameterName5=Supplier Part Number 1
+ParameterName5=Library Reference
 ParameterUpdate5=1
+ParameterName6=Manufacturer_Name
+ParameterUpdate6=1
+ParameterName7=Manufacturer_Part_Number
+ParameterUpdate7=1
+ParameterName8=Mouser2 Part Number
+ParameterUpdate8=1
+ParameterName9=Mouser2 Price/Stock
+ParameterUpdate9=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=PowerPAK SO-8L DUAL ASYMMETRIC
+ModelName0=LEDC2012X90N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
