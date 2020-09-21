@@ -98,7 +98,7 @@ DocumentUniqueId=KFWRDTYK
 
 [Document4]
 DocumentPath=100_POWER.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -200,7 +200,7 @@ DocumentUniqueId=KBBBYLLN
 
 [Document10]
 DocumentPath=200_CDH_USB_2_Hub.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -222,6 +222,10 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Oasis\Design Rule Check - CDH_PCB_reva02.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -375,7 +379,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Officejet 7200 series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
